@@ -24,6 +24,7 @@
 - [C언어란 무엇인가.](https://github.com/knu-of/c-study/issues/1#issue-1008257840) (~10/01)
 - [형변환, 포인터, 함수에 대해 알아보자](https://github.com/knu-of/c-study/issues/2) (~10/03)
 - [구조체에 대해서 알아보자](https://github.com/knu-of/c-study/issues/3) (~10/08)
+- [동적할당에 대해서 알아보자](https://github.com/knu-of/c-study/issues/4) (~10/10)
 
 
 
